@@ -11,3 +11,5 @@ some test changes
 тест конфликта - разрешение конфликта
 
 конфликт разрабов - разраб 1
+
+developer conflict 2 - dev 1
