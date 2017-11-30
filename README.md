@@ -12,4 +12,4 @@ some test changes
 
 конфликт разрабов - разраб 1
 
-developer conflict 2 - dev 1
+dev conflict 3 - dev 1
