@@ -17,3 +17,5 @@ dev conflict 3 - dev 2!
 try workaround error
 
 changes for reset
+
+second branch first change
