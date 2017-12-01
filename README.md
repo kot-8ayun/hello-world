@@ -15,3 +15,5 @@ some test changes
 dev conflict 3 - dev 2!
 
 try workaround error
+
+changes for reset
